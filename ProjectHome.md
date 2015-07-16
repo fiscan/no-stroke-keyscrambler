@@ -1,0 +1,1 @@
+Instead of a regular keyscrambler, this program shows that you only typed a space, instead of the actual key.
